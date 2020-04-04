@@ -1,0 +1,7 @@
+{
+  "name": "Besmul Donatur",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
